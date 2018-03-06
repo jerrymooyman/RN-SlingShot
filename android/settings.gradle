@@ -1,0 +1,3 @@
+rootProject.name = 'RN_slingshot_cli'
+
+include ':app'
